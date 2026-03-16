@@ -1,0 +1,1 @@
+pip install flask flask-cors python-dotenv pymongo pillow pytesseract scikit-learn nltk requests
